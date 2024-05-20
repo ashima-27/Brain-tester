@@ -105,7 +105,7 @@ function App() {
       notify7();
     }
     console.log(firstImagesCount)
-     }, [choiceOne,choiceTwo])
+     }, [choiceOne,choiceTwo,cards])
     
      
   useEffect(()=>{
