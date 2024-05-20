@@ -1,5 +1,4 @@
 import { useEffect, useState} from 'react';
-import useSound from 'use-sound';
 import './App.css'
 
 import SingleCard from './components/SingleCard';
@@ -142,10 +141,3 @@ function App() {
 export default App
 
 
-
-
-
-
-
-     // eslint-disable-next-line no-unused-expressions
-    //  cards.matched!== false ? notify5() :" ";
